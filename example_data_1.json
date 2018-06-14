@@ -1,0 +1,66 @@
+{
+    "AirQuality": {
+        "NO2": {
+            "Index": 0.49, 
+            "Unit": "ppb", 
+            "Value": 19.41
+        }, 
+        "NOx": {
+            "Index": 0.09, 
+            "Unit": "ppb", 
+            "Value": 25.58
+        }, 
+        "O3": {
+            "Index": 0.54, 
+            "Unit": "ppb", 
+            "Value": 42.85
+        }, 
+        "PM10": {
+            "Index": 0.6, 
+            "Unit": "µg/m3", 
+            "Value": 30.11
+        }, 
+        "PM2_5": {
+            "Index": 1.02, 
+            "Unit": "µg/m3", 
+            "Value": 25.58
+        }, 
+        "SO2": {
+            "Index": 0.08, 
+            "Unit": "ppb", 
+            "Value": 4.1
+        }, 
+        "TotalIndex": 0.6
+    }, 
+    "StartTime": "/Date(1523872800000+0200)/", 
+    "StopTime": "/Date(1523876400000+0200)/", 
+    "Weather": {
+        "AirPressure": {
+            "Unit": "hPa", 
+            "Value": 1012.39
+        }, 
+        "Humidity": {
+            "Unit": "%", 
+            "Value": 87.43
+        }, 
+        "RainFall": {
+            "Unit": "mm"
+        }, 
+        "SolarInsolation": {
+            "Unit": "W/m2", 
+            "Value": 91.22
+        }, 
+        "Temperature": {
+            "Unit": "°C", 
+            "Value": 10.23
+        }, 
+        "WindDirection": {
+            "Unit": "°", 
+            "Value": 190.19
+        }, 
+        "WindSpeed": {
+            "Unit": "m/s", 
+            "Value": 1.82
+        }
+    }
+}
